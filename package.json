@@ -1,0 +1,13 @@
+{
+  "name": "reproduce-default-import",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "shadow-cljs": "2.10.19"
+  },
+  "dependencies": {
+    "react": "16.13.0",
+    "react-day-picker": "^7.4.5",
+    "react-dom": "16.13.0"
+  }
+}
